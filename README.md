@@ -1,5 +1,5 @@
 # Tecnologias utilizadas:
-C#
-.NetCore
-EntityFramework
+C#,
+.NetCore,
+EntityFramework,
 Banco de Dados SqlServer
