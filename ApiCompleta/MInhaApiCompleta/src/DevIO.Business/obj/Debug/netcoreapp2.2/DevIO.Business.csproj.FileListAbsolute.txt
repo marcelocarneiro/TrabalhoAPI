@@ -1,0 +1,17 @@
+C:\CursoEduardoPires\ProjetoReal\MinhaAppReal\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+C:\CursoEduardoPires\ProjetoReal\MinhaAppReal\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\CursoEduardoPires\ProjetoReal\MinhaAppReal\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\CursoEduardoPires\ProjetoReal\MinhaAppReal\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\CursoEduardoPires\ProjetoReal\MinhaAppReal\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+C:\CursoEduardoPires\ProjetoReal\MinhaAppReal\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+C:\CursoEduardoPires\ProjetoReal\MinhaAppReal\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\CursoEduardoPires\ProjetoReal\MinhaAppReal\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\CursoEduardoPires\Api\ApiCompleta\MInhaApiCompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+C:\CursoEduardoPires\Api\ApiCompleta\MInhaApiCompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\CursoEduardoPires\Api\ApiCompleta\MInhaApiCompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\CursoEduardoPires\Api\ApiCompleta\MInhaApiCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache
+C:\CursoEduardoPires\Api\ApiCompleta\MInhaApiCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+C:\CursoEduardoPires\Api\ApiCompleta\MInhaApiCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+C:\CursoEduardoPires\Api\ApiCompleta\MInhaApiCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\CursoEduardoPires\Api\ApiCompleta\MInhaApiCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\CursoEduardoPires\Api\ApiCompleta\MInhaApiCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb
